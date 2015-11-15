@@ -1,0 +1,16 @@
+<html>
+<head>
+<title>EvilShip_TextureText</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<!-- ImageReady Slices (EvilShip_TextureText.ai) -->
+<img src="images/EvilShip_TextureText.png" width="612" height="792" border="0" alt="" usemap="#EvilShip_TextureText_Map">
+<map name="EvilShip_TextureText_Map">
+<area shape="rect" alt="" coords="359,441,482,709" href="#ship">
+<area shape="rect" alt="" coords="130,441,253,709" href="#ship">
+<area shape="rect" alt="" coords="217,62,396,562" href="#ship">
+</map>
+<!-- End ImageReady Slices -->
+</body>
+</html>
